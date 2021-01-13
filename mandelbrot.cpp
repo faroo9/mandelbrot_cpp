@@ -7,9 +7,6 @@
 
 using namespace std;
 
-
-
-
 int value (int x, int y)  {
     complex<float> point((float)x/WIDTH-1.5, (float)y/HEIGHT-0.5);
     complex<float> z(0, 0);
